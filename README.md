@@ -1,0 +1,2 @@
+# miniaturpayung
+remote git
